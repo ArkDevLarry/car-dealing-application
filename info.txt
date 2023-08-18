@@ -1,0 +1,5 @@
+This is a car ecommerce platform suitable for all auto
+centers;
+Users can register their car on this platform
+Admin verifies and accept the car for listing on the platform
+User authentication and profile
